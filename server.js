@@ -13,7 +13,7 @@ const options = {
     info: {
       title: "66130151 Peerapat Atta API",
       version: "1.0.0",
-      description: "66130151 Peerapat Atta API Lab",
+      description: "66130151 Peerapat Atta API Lab#1",
     },
   },
   apis: ["./routes/*.js"],
