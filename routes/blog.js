@@ -69,7 +69,7 @@ const blogs = [
     title: "Peerapat Atta",
     description: "Peerapat Atta",
     cover:
-      "https://png.pngtree.com/png-vector/20220807/ourmid/pngtree-cartoon-panda-sleep-png-image_6102474.png",
+      "https://static.vecteezy.com/system/resources/previews/026/721/586/original/cute-fat-cat-sticker-design-funny-crazy-cartoon-illustration-png.png",
   },
 ];
 
